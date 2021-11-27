@@ -1,4 +1,4 @@
-# COVID_PREDICTION
+# COVID_PREDICTION_FROM_VENUE_CLUSTERING
 ## Intro
 During 2020, the number of COVID-19 cases has surged across the state of New York. After strict COVID-19 safety guideline enforcements, the infection rate in NYC gradually decreased, and New York city was starting to open up. The reopening of the New York City has four phases, and in around July 2020, New York was entering phase three of the reopening, where outdoor dining, local gyms, shopping malls and other entertainment facilities were reopened. However, with these facilities opening, the COVID-19 infection rate came up simultaneously. In January 2021, New York City’s restaurant’s indoor dining were forced to close again because of the surging virus. There is clearly a positive correlation between the reopening businesses and the virus infection rate. With different infection rates in different neighborhoods of New York City, it would be interesting to examine how different venues in a neighborhood affects that neighborhood’s infection rate as well as if number of venues can effectively predict the neighborhood’s infection rate. 
 
